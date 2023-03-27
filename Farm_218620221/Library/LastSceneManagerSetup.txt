@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Farm_218620221.unity
+  isLoaded: 1
+  isActive: 1
